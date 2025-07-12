@@ -1,0 +1,37 @@
+/* styles/Admin.module.css */
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.form input {
+  display: block;
+  margin: 0.5rem 0;
+  padding: 0.6rem;
+  width: 100%;
+  border: 1px solid #bb7373;
+  border-radius: 8px;
+}
+
+.form button {
+  background: #0070f3;
+  color: rgb(132, 128, 209);
+  padding: 0.6rem;
+  border: none;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.list {
+  margin-top: 2rem;
+  list-style: none;
+  padding: 0;
+}
+
+.card {
+  border: 1px solid #855e5e;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
