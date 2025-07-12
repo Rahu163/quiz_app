@@ -1,6 +1,6 @@
 # 🧠 Quiz App - Full Stack with Next.js, TailwindCSS, MongoDB & NextAuth
 
-A modern quiz application where users can register, take timed quizzes, and view scores. Admins can add, delete, and manage quiz questions via a secure panel.
+A modern quiz application where users can take quizzes without register, take timed quizzes, and view scores. Admins can add, delete, and manage quiz questions via a secure panel.
 
 ---
 
